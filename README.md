@@ -109,8 +109,6 @@ The data points are not so evenly distributed vertically, the model has room for
 #### The RMSLE (Root Mean Squared Logarithmic Error) that I obtained:
 ![kaggle_result](https://user-images.githubusercontent.com/43289100/46294110-a3ad2f80-c5c7-11e8-9ded-d1fdfea1cbef.PNG)
 
-#### Other top 6 competitor results:
-![top6_score](https://user-images.githubusercontent.com/43289100/46294256-f5ee5080-c5c7-11e8-8d7d-e78a84e2b787.PNG)
 
 
 ## Summary
